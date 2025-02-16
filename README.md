@@ -1,16 +1,9 @@
-# example_app
+Этот проект представляет собой хранилище скриншотов, которые могут быть сохранены в различные созданные пользователем папки. Также предоставляется возможность добавлять теги для быстрого поиска файлов. Данное приложение упрощает организацию и управление скриншотами, делая их доступными и легко находимыми. Также приложение предоствляет вохможность передачи файлов между различными устройствами
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Функциональные возможности
+- Создание и управление папками для хранения скриншотов
+- Добавление тегов к скриншотам для быстрого поиска
+- Поддержка множества устройств для доступа и управления скриншотами
+- Хранение пользовательских фотографий на backend-сервисе Supabase
+- Возможность обмена фотографиями между устройствами
+- Вход по биометрике
